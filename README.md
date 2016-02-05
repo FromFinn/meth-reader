@@ -1,7 +1,6 @@
-
---------
-> #### In addition to everything you see overall is mearly a test and subject to change.
- 
+#Meth-reader
+----
+> #### Everything you see overall is mearly a test and subject to change.
 >> The actual html script is completely free to use and modify. _However_, the actual resources such as the actual novel itself, are not to be altered or distributed without proper permission. 
 
 --
